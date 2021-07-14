@@ -1,8 +1,6 @@
 Steps to run project 
-1. copy jar which is in target folder to your local drive
-2. go to command promt and run below command
-java -jar atmlocator-0.0.1-SNAPSHOT.jar
-
+1. clone the project by using url:https://github.com/satish222486/sample-projects/tree/master/atmlocator
+2. run the project 
 3. Run below url's to get information
 
 
